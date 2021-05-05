@@ -23,7 +23,7 @@ template: webstack
 webstack:
   search:
     enabled: true
-    default: baidu
+    default: google
     # 可选的搜索引擎
     engines:
       - google
