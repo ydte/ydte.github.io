@@ -8,10 +8,10 @@ description: ydte's navigation site
 favicon: "https://github.com/ydte.png?size=40"
 
 # your website url
-url: https://ydte.github.io/nav/
+url: https://dh.ztz8.com
 
 # github profile url
-github: https://github.com/ydte/nav
+github: https://dh.ztz8.com
 
 # footer message
 footer: © 2021-2021 @ydte
@@ -40,33 +40,38 @@ content:
   categories:
     - name: 常用推荐
       sites:
+        - name: 我的导航
+          description: 展示分享的网站
+          url: http://dh.ztz8.com/
         - name: GitHub
           description: GitHub
           url: https://github.com/
         - name: V2EX
           description: 技术论坛，创意工作者们的社区
           url: https://www.v2ex.com/
-        - name: JSON Editor Online
-          description: JSON 工具，可以对比两个 JSON，以及分享 JSON 片段
-          url: https://jsoneditoronline.org/
-        - name: Excalidraw
-          description: 流程图工具，可以画手写风格的图表
-          url: https://excalidraw.com/
+        - name: Youtube
+          description: 全球最大的学习分享平台
+          url: hhttps://www.youtube.com/
         - name: Lobsters
           description: 技术论坛
           url: https://lobste.rs/
-        - name: 斗鱼
-          description: 直播平台
-          url: https://www.douyu.com/
-        - name: 小霸王
-          description: 在线小霸王游戏机
-          url: https://www.yikm.net/
         - name: 需要我帮你百度一下吗
           description: 需要我帮你百度一下吗生成器
           url: https://when.run/lmbdfy.html
         - name: Google Analytics
           description: Google Analytics 分析
           url: https://analytics.google.com/analytics/web/
+    - name: 手游试玩
+      sites:
+        - name: 侠客行 - 动作仙侠
+          description: MMORPG新派武侠国风手游，炫酷侠客坐骑时装。
+          url: https://shimo.im/docs/HkdxG8K6XXT8qQ9t
+        - name: 新斗罗大陆 - 横版卡牌
+          description: 唐家三少原著改编，100%剧情还原，动画唐三小舞倾情入驻游戏！
+          url: https://shimo.im/docs/PTDTwjQprccGWjtJ
+        - name: 雷霆传奇H5-黑暗主宰光柱版
+          description: 苹果安卓电脑三端可玩，热血传奇至尊传世再现！
+          url: https://shimo.im/docs/PTDTwjQprccGWjtJ
     - name: 技术工具
       sites:
         - name: misaka ping
