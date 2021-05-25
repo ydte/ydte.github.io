@@ -92,11 +92,11 @@ content:
         - name: Reddit Rust 频道
           description: Reddit Rust 专区
           url: https://www.reddit.com/r/rust/
-    - name: 图片图集
+    - name: 在线影音
       sites:
         - name: Unsplash
-          description: Beautiful Free Images & Pictures
-          url: https://unsplash.com/
+          description: 新域名cokemv.me、cokemv.co
+          url: https://cokemv.cn/
         - name: 花瓣网
           description: 图片采集，图片分享
           url: https://huaban.com/discovery/
