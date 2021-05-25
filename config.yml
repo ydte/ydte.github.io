@@ -94,7 +94,7 @@ content:
           url: https://www.reddit.com/r/rust/
     - name: 在线影音
       sites:
-        - name: Unsplash
+        - name: cokemv在线视频
           description: 新域名cokemv.me、cokemv.co
           url: https://cokemv.cn/
         - name: 花瓣网
